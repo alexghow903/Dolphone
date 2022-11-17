@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dolphone</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="superput">TextView</string>
+    <string name="connect">Connect</string>
+</resources>
